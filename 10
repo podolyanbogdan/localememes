@@ -1,0 +1,71 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "ID": 73,
+      "bottomText": "DON'T HAVE A JOB",
+      "image": "https://imgflip.com/s/meme/Roll-Safe-Think-About-It.jpg",
+      "name": "Roll Safe Think About It",
+      "tags": "Think about it",
+      "topText": "CAN'T GET FIRED IF YOU"
+    },
+    {
+      "ID": 74,
+      "bottomText": "NO ADS",
+      "image": "https://imgflip.com/s/meme/Good-Guy-Greg.jpg",
+      "name": "Good Guy Greg",
+      "tags": "ggg",
+      "topText": "MOST USEFUL WEBSITE ON THE INTERNET"
+    },
+    {
+      "ID": 75,
+      "bottomText": "OR JUST NICE",
+      "image": "https://imgflip.com/s/meme/Futurama-Fry.jpg",
+      "name": "Futurama Fry",
+      "tags": "Futurama Fry",
+      "topText": "NOT SURE IF FLIRTING"
+    },
+    {
+      "ID": 76,
+      "bottomText": "TEACHER DIDN'T NOTICE",
+      "image": "https://imgflip.com/s/meme/Success-Kid.jpg",
+      "name": "Success Kid",
+      "tags": "Success Kid",
+      "topText": "COPY AND PASTED WIKIPEDIA PAGE ONTO ESSAY"
+    },
+    {
+      "ID": 77,
+      "bottomText": "FORGOT IT AFTER LOGGING ON",
+      "image": "https://imgflip.com/s/meme/Bad-Luck-Brian.jpg",
+      "name": "Bad Luck Brian",
+      "tags": "Bad Luck Brian",
+      "topText": "GOT A GOOD MEME IDEA"
+    },
+    {
+      "ID": 78,
+      "bottomText": "",
+      "image": "https://www.memesmonkey.com/images/memesmonkey/cd/cd9ac0f2acf30284bdb6fab367e1f967.jpeg",
+      "name": "High",
+      "tags": "High",
+      "topText": "      "
+    },
+    {
+      "ID": 79,
+      "bottomText": "WHEN SOMEONE SAYS TIKTOK IS BETTER THAN IMGFLIP",
+      "image": "https://imgflip.com/s/meme/Face-You-Make-Robert-Downey-Jr.jpg",
+      "name": "Face You Make Robert Downey Jr",
+      "tags": "Face You Make Robert Downey Jr",
+      "topText": ""
+    },
+    {
+      "ID": 80,
+      "bottomText": "THAT YOU COULD BE CRITICAL OF RELIGION BUT IN THE SAME TIME, FASCINATED BY IT",
+      "image": "https://imgflip.com/s/meme/Matrix-Morpheus.jpg",
+      "name": "Matrix Morpheus",
+      "tags": "Matrix Morpheus",
+      "topText": "WHAT IF I TOLD YOU"
+    }
+  ],
+  "message": "GET successful",
+  "next": "http://alpha-meme-maker.herokuapp.com/2"
+}
